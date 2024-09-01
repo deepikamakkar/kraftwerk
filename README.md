@@ -1,4 +1,4 @@
-***Will Customer accept the Coupon?***
+**Will Customer Accept the Coupon?**
 
 **Context**
 
